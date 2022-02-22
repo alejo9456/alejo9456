@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="imagen.png" height="175px"/></a>
+<a href="#"><img width="100%" height="250px" src="imagen.png" height="175px"/></a>
 
 <h1 align="center"> Hola Mundo 👋 </h1>
 
