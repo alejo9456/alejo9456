@@ -5,7 +5,7 @@
 
 ## 🙋‍♂️ Acerca de mi
 
-Me llamo Alejandro Villanueva y soy Front-End developer  disfruto mucho aprendiendo tecnologias para el desarrollo de paginas web y en mis ratos libres juego con mi gameboy(retro gamer).   
+Me llamo Alejandro Villanueva y soy simple desarrollador :) que disfruta mucho aprendiendo tecnologias para el desarrollo de paginas web en mis ratos libres me dibujar, jugar futbol o jugar con mis consolas de videojuegos retro.
 
 ## 🚀 Habilidades :
 
