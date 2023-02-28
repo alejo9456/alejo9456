@@ -5,7 +5,7 @@
 
 ## 🙋‍♂️ Acerca de mi
 
-Me llamo Alejandro Villanueva y soy desarrollador web :) que disfruta mucho aprendiendo tecnologias para el desarrollo de paginas web en mis ratos libres me gusta dibujar, jugar futbol o jugar con mis consolas de videojuegos retro.
+¡Hola! Me llamo Alejandro Villanueva y soy desarrollador web. :) Disfruto mucho aprendiendo tecnologías para el desarrollo de páginas web. En mis ratos libres, me gusta dibujar, jugar fútbol o jugar con mis consolas de videojuegos retro.
 
 ## 🚀 Habilidades :
 
